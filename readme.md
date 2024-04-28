@@ -1,4 +1,4 @@
-# Aplicación de Gestión de Productos
+# Ejercicio de Gestión de Productos
 
 Este ejercicio utiliza Express.js y MySQL para crear una API que gestiona productos y categorías.
 
